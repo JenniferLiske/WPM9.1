@@ -4,7 +4,7 @@ Author: Jennifer Liske
 
 ## Das Stadtarchiv – eine kurze Vorstellung
 
-Das Stadtarchiv Wuppertal bewahrt rund 6,5 Regalkilometer archivwürdiger Dokumente aus städtischen und privaten Akzessionen. Weitere Bestände bilden historische Zeitungen sowie eine Karten-, Plakat- und Fotosammlung. Darüber hinaus führt das Stadtarchiv eine Präsenzbibliothek, in der über 6000 Titel für Benutzer zur Verfügung stehen. Teile dieser Bestände werden in Word-, PDF- und Excel-Dokumenten gepflegt. Im Archivprogramm [Augias] (https://www.augias.de) werden hauptsächlich städtische Bestände sowie die Zeitgeschichtliche Sammlung gepflegt.
+Das Stadtarchiv Wuppertal bewahrt rund 6,5 Regalkilometer archivwürdiger Dokumente aus städtischen und privaten Akzessionen. Weitere Bestände bilden historische Zeitungen sowie eine Karten-, Plakat- und Fotosammlung. Darüber hinaus führt das Stadtarchiv eine Präsenzbibliothek, in der über 6000 Titel für Benutzer zur Verfügung stehen. Teile dieser Bestände werden in Word-, PDF- und Excel-Dokumenten gepflegt. Im Archivprogramm [Augias](https://www.augias.de) werden hauptsächlich städtische Bestände sowie die Zeitgeschichtliche Sammlung gepflegt.
 
 ## Ausgangssituation
 
