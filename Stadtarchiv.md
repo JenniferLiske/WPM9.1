@@ -51,10 +51,12 @@ Anhand dieser Angaben entscheidet der Archivar ob die Akten *archivwürdig* oder
 Der Archivar füllt im Anschluss eine Excelliste aus:
 
 | Datum | LE | Menge | Art der Unterlagen | Bewertung | Begründung | eingetroffen |
+| 01.02.20|  Ressort 103 | 10 Akten | Planung und Karten des Skulpturenparks | A | erheblicher Evidenzwert | Nr. 05/2020 | 
 
 Sofern Akten als archivwürdig eingestuft wurden, wird nach dem Eintreffen der Akten im Archiv eine weitere Excel Liste befüllt:
 
-| Zugangsnummer | Typ | Zugangsdatum | Provenienz | Inhalt | Laufzeit | Menge | Art | Lagerort | Archivkarton | Archivmappe | Entmetallisiert |
+| Zugangsnr | Typ | Zugangsdatum | Provenienz | Inhalt | Laufzeit | Menge | Art | Lagerort | Karton | Mappe | Entmetallisiert|
+| 05/2020 | Akten | 01.03.2020 | Ressort 103 | Planung und Karten des Skulpturenparks | 2000-2005 | 0,7 lfm | Akten | EG Regal 28 | nein | nein | nein |
 
 Diese beiden Tabellen existieren parallel. Zum einen ist dies schade, da die Daten teilweise identisch sind (LE und Provenienz, Menge, Art der Unterlage und Inhalt, eingetroffen und Zugangsnummer). Zum anderen wird bei Recherchen in nicht verzeichneten Beständen, das Durchsuchen beider Excel Dateien nötig. Recherchen fallen bei jeder potentiellen Übernahme an, um eine Kontinuität zu gewährleisten, sowie bei entsprechenden Anfragen. 
 Durch die häufig lange zeitliche Distanz von Anbietung der Akten zum Zugang im Archiv, hat es sich nicht ergeben, beide Informationen zusammen in einer Datei zu pflegen. Daher wäre hier, auch da bereits viele Daten direkt digital sind, besonderes Potential für die Anwendung einer Software. 
