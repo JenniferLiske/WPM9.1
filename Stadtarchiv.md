@@ -2,7 +2,13 @@
 
 Author: Jennifer Liske
 
-## Das Stadtarchiv – eine kurze Vorstellung
+## Inhaltsverzeichnis
+
+- [Stadtarchiv](#stadtarchiv)
+- [Ausgangssituation](#ausgangssituation)
+- [Beispielprozess](#beispielprozess)
+
+## Stadtarchiv
 
 Das [Stadtarchiv Wuppertal](https://www.friedrich-engels-haus.de/stadtarchiv/was-wir-tun) bewahrt rund 6,5 Regalkilometer archivwürdiger Dokumente aus städtischen und privaten Akzessionen. Weitere Bestände bilden historische Zeitungen sowie eine Karten-, Plakat- und Fotosammlung. Darüber hinaus führt das Stadtarchiv eine Präsenzbibliothek, in der über 6000 Titel für Benutzer zur Verfügung stehen. Teile dieser Bestände werden in Word-, PDF- und Excel-Dokumenten gepflegt. Im Archivprogramm [Augias](https://www.augias.de) werden hauptsächlich städtische Bestände sowie die Zeitgeschichtliche Sammlung gepflegt.
 
@@ -34,7 +40,7 @@ Im Stadtarchiv Wuppertal gibt es verschiedenste Datenintensive Prozesse, in die 
 -	Im Stadtarchiv wird nach Beständen verzeichnet, mehrere Zugänge können einen Bestand bilden. Die Definition von Beständen ergibt sich aus dem Organigramm der Stadtverwaltung, so gibt es beispielsweise den Bestand *Jugend* für das Jugendamt oder *Von der Heydt-Museum* für das städtische Kunstmuseum in Wuppertal.
 -	Akten werden als Datensatz in Augias eingepflegt. Dazu werden strukturelle und inhaltliche Metadaten aufgenommen, wie Zugang, Titel, Laufzeit, Inhalt und Umfang der Akte. Jedem Datensatz wird eine Signatur zugeordnet.
 
-## Beispielprozess: Städtische Übernahmen
+## Beispielprozess
 
 Die Akzession von städtischem Schriftgut ist, wie zuvor erwähnt, eine zentrale Aufgabe des Stadtarchivs. Der Prozess soll zunächst erläutert werden, um dann mögliche Potentiale für den Einsatz von Software oder Skripten herauszuarbeiten.
 Wenn die Aufbewahrungsfrist gemäß der Schriftgutordnung der Stadt abgelaufen ist, füllt die entsprechende Leistungseinheit (LE) die „Mitteilung an das Stadtarchiv über ausgesondertes Schriftgut“ aus und schickt diese an das Stadtarchiv. Hier werden folgende Informationen erfasst:
