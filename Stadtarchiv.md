@@ -60,6 +60,9 @@ Der Archivar füllt im Anschluss immer unabhänging von der Entscheidung eine Ex
 | Datum | LE | Menge | Art der Unterlagen | Bewertung | Begründung | eingetroffen |
 | ----- | -- | ----- | ------------------ | ----------| -----------| ------------ |
 | 01.02.20|  Ressort 103 | 10 Akten | Planung und Karten des Skulpturenparks | A | erheblicher Evidenzwert | Nr. 05/2020 | 
+| 15.02.20|  Ressort 402 | 40 Akten | Beschaffung Headsets | K | kein erheblicher Evidenzwert | / | 
+| 04.04.20|  Ressort 003 | 2 Akten | Rechnungsprüfungen 2003-2005  | A | erheblicher Evidenzwert | Nr. 06/2020 | 
+| 08.04.20|  SB 213 | 5 Akten | Sanierung Engelshaus  | A | erheblicher Evidenzwert | Nr. 07/2020 | 
 
 
 Sofern Akten als archivwürdig eingestuft wurden, wird nach dem Eintreffen der Akten im Archiv eine weitere Excel Liste befüllt (Tabelle 2):
@@ -67,6 +70,9 @@ Sofern Akten als archivwürdig eingestuft wurden, wird nach dem Eintreffen der A
 | Zugangsnr | Typ | Zugangsdatum | Provenienz | Inhalt | Laufzeit | Menge | Art | Lagerort | Karton | Mappe | Entmetallisiert|
 | --------- | --- | ------------ | ---------- | ------ | -------- | ----- | --- | -------- | ------ | ----- | -------------- |
 | 05/2020 | Akten | 01.03.2020 | Ressort 103 | Planung und Karten des Skulpturenparks | 2000-2005 | 0,7 lfm | Akten | EG Regal 28 | nein | nein | nein |
+| 06/2020 | Akten | 20.04.2020 | Ressort 003 | Rechnungsprüfungen | 2003-2005 | 0,14 lfm | Akten | EG Regal 28 | nein | nein | nein |
+| 07/2020 | Akten | 25.04.2020 | SB 213 | Sanierung Engelshaus | 2015-2017 | 0,35 lfm | Akten | EG Regal 28 | nein | nein | nein |
+
 
 Diese beiden Tabellen existieren parallel. Zum einen ist dies ein unnötiger Arbeitsaufwand, da die Daten teilweise identisch sind (LE und Provenienz, Menge, Art der Unterlage und Inhalt, eingetroffen und Zugangsnummer). Zum anderen wird bei Recherchen in diesen nicht verzeichneten Beständen das Durchsuchen beider Excel Dateien nötig. Recherchen fallen bei jeder potentiellen Übernahme an, um eine Kontinuität zu gewährleisten, sowie bei entsprechenden Anfragen. 
 Durch teilweise lange Zeiträume zwischen Anbietung der Akten und dem Zugang dieser im Archiv, hat es sich nicht ergeben, beide Informationen zusammen in einer Datei zu pflegen. Die Excel Listen werden seit teilweise 6 Jahren geführt, daher ist eine Übertragung und Zusammenbringung der beiden Dateien nur mit erheblichen Arbeitsaufwand zu leisten. Es erscheint daher sinnvoll, diese Dateien abzuschließen und neu zu beginnen. Bei der Gestaltung einer neuen Excel Tabelle müsste berücksichtigt werden, dass nicht bei jeder Aktenanbietung Akten als *archivwürdig* eingestuft und übernommen werden. Um die Tabelle möglichst übersichtlich zu gestalten, könnte sie chronolgisch aufgebaut werden. 
