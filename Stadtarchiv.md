@@ -55,8 +55,9 @@ Wenn die Aufbewahrungsfrist gemäß der Schriftgutordnung der Stadt abgelaufen i
 * eine inhaltliche Beschreibung
 
 Anhand dieser Angaben entscheidet der Archivar ob die Akten *archivwürdig* oder *kassabel* sind (hier wird der Regelprozess abgebildet. In ca. 30% der Fälle erfolgt eine Vorortprüfung der Akten. Dieser Zwischenschritt hat keine Auswirkung auf die entstehenden Daten und wird daher nicht abgebildet). Nachdem die Akten mit einem *a* für *archivwürdig* oder einem *k* für *kassabel* gekennzeichnet wurde, trägt der Archivar Name, Datum und Durchwahl ein und sendet das Formular zurück an die Leistungseinheit, gegebenenfalls mit der Bitte die Akten dem Stadtarchiv zukommen zu lassen. Wenn alle Akten als *kassabel* eingestuft wurden, können diese von der Leistungseinheit vernichtet werden. 
-Der Archivar füllt im Anschluss immer unabhänging von der Entscheidung eine Excel Liste aus (Tabelle 1):
+Der Archivar füllt im Anschluss immer unabhänging von der Entscheidung eine Excel Liste aus. 
 
+### Tabelle 1
 | Datum | LE | Menge | Art der Unterlagen | Bewertung | Begründung | eingetroffen |
 | ----- | -- | ----- | ------------------ | ----------| -----------| ------------ |
 | 01.02.20|  Ressort 103 | 10 Akten | Planung und Karten des Skulpturenparks | A | erheblicher Evidenzwert | Nr. 05/2020 | 
@@ -65,7 +66,8 @@ Der Archivar füllt im Anschluss immer unabhänging von der Entscheidung eine Ex
 | 08.04.20|  SB 213 | 5 Akten | Sanierung Engelshaus  | A | erheblicher Evidenzwert | Nr. 07/2020 | 
 
 
-Sofern Akten als archivwürdig eingestuft wurden, wird nach dem Eintreffen der Akten im Archiv eine weitere Excel Liste befüllt (Tabelle 2):
+Sofern Akten als archivwürdig eingestuft wurden, wird nach dem Eintreffen der Akten im Archiv eine weitere Excel Liste befüllt. 
+### Tabelle 2
 
 | Zugangsnr | Typ | Zugangsdatum | Provenienz | Inhalt | Laufzeit | Menge | Art | Lagerort | Karton | Mappe | Entmetallisiert|
 | --------- | --- | ------------ | ---------- | ------ | -------- | ----- | --- | -------- | ------ | ----- | -------------- |
